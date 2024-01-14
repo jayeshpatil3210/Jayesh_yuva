@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "name": "mitansh",
+      "email": "mitansh@gmail,com",
+      "gender": "male",
+      "Hobbies": [
+        "Football"
+      ],
+      "status": "Active",
+      "id": 18
+    },
+    {
+      "id": 19,
+      "name": "Aadil",
+      "email": "abd@gmail.com",
+      "gender": "male",
+      "status": "Active",
+      "Hobbies": [
+        "Football"
+      ]
+    },
+    {
+      "name": "Jayesh",
+      "email": "jayeshpatil3210@gmail.com",
+      "gender": "male",
+      "Hobbies": [
+        "Cricket"
+      ],
+      "status": "Inactive",
+      "id": 20
+    },
+    {
+      "name": "Paresh",
+      "email": "pareshpatil3210@gmail.com",
+      "gender": "male",
+      "Hobbies": [
+        "Cricket"
+      ],
+      "status": "Active",
+      "id": 21
+    }
+  ]
+}
